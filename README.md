@@ -2,7 +2,7 @@
 
 ## 🚀 Front-End Developer | Criando experiências incríveis na web
 
-Sou um desenvolvedor front-end focado em transformar ideias em interfaces funcionais, elegantes e responsivas. Tenho experiência sólida em **HTML**, **CSS** e **JavaScript** e estou aprimorando minhas habilidades com **Vue.js 3**, explorando o poder dos frameworks modernos para construir aplicações dinâmicas e performáticas.
+Sou um desenvolvedor front-end focado em transformar ideias em interfaces funcionais, elegantes e responsivas. Tenho experiência sólida em **HTML**, **CSS** e **JavaScript** e estou aprimorando minhas habilidades com **React.js**, explorando o poder dos frameworks modernos para construir aplicações dinâmicas e performáticas.
 
 ---
 

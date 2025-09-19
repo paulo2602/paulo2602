@@ -39,8 +39,8 @@ Confira alguns dos meus projetos no GitHub:
 
 ##  Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paulo%20Isaque-blue?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/paulo-isaque)
-[![GitHub](https://img.shields.io/badge/GitHub-paulo2602-black?style=for-the-badge\&logo=github)](https://github.com/paulo2602)
+[![LinkedIn](www.linkedin.com/in/isaque-araújo)
+[![Email: pauloisaquecastro@gmail.com ]
 
 ---
 
@@ -58,6 +58,4 @@ Confira alguns dos meus projetos no GitHub:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=paulo2602&theme=radical" alt="Paulo Isaque Streak Stats" />
 </div>  
 
----
 
-Quer que eu adicione também **TypeScript** nessa lista de tecnologias (já que é muito usado junto com React) ou prefere deixar só as que você já domina?

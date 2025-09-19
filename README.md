@@ -39,7 +39,7 @@ Confira alguns dos meus projetos no GitHub:
 
 ##  Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paulo%20Isaque-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/isaque-araújo)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Isaque%20Araújo-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaque-araújo)
 
 ---
 

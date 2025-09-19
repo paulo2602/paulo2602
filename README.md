@@ -2,9 +2,9 @@ Perfeito! Tirei os espaços grandes entre as tecnologias e deixei o **React.js**
 
 ---
 
-# 👋 Olá, eu sou Paulo Isaque!
+#  Olá, eu sou Paulo Isaque!
 
-## 🚀 Front-End Developer | Criando experiências incríveis na web
+##  Front-End Developer | Criando experiências incríveis na web
 
 Sou um desenvolvedor front-end apaixonado por transformar ideias em interfaces funcionais, elegantes e responsivas. Tenho experiência sólida em **HTML**, **CSS** e **JavaScript**, e atualmente estou me aprofundando em **React.js**, explorando todo o seu ecossistema para criar aplicações modernas, dinâmicas e performáticas.
 
@@ -14,10 +14,9 @@ Sou um desenvolvedor front-end apaixonado por transformar ideias em interfaces f
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB) ![Styled-Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge\&logo=styled-components\&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=FFD62E)
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Logo" width="40" height="40" style="vertical-align:middle; margin-left: 5px;"/>
 ---
 
-## 🔭 O que estou estudando no momento
+##  O que estou estudando no momento
 
 * **React.js avançado** (Hooks, Context API, React Router, otimização de performance)
 * **Integração de APIs RESTful e consumo de dados em tempo real**
@@ -26,7 +25,7 @@ Sou um desenvolvedor front-end apaixonado por transformar ideias em interfaces f
 
 ---
 
-## 📂 Projetos recentes
+##  Projetos recentes
 
 Confira alguns dos meus projetos no GitHub:
 
@@ -38,14 +37,14 @@ Confira alguns dos meus projetos no GitHub:
 
 ---
 
-## 📫 Vamos nos conectar?
+##  Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Paulo%20Isaque-blue?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/paulo-isaque)
 [![GitHub](https://img.shields.io/badge/GitHub-paulo2602-black?style=for-the-badge\&logo=github)](https://github.com/paulo2602)
 
 ---
 
-## ⚡ Curiosidades
+## Curiosidades
 
 * 🏋️‍♂️ Cuido da saúde com treinos diários
 * 💻 Tenho grande interesse por tecnologia e inovação

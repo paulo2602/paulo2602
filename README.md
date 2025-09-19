@@ -39,8 +39,7 @@ Confira alguns dos meus projetos no GitHub:
 
 ##  Vamos nos conectar?
 
-[![LinkedIn](www.linkedin.com/in/isaque-araújo)
-[![Email: pauloisaquecastro@gmail.com ]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paulo%20Isaque-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/isaque-araújo)  
 
 ---
 

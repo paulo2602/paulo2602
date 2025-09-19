@@ -45,12 +45,5 @@ Confira alguns dos meus projetos no GitHub:
 * 💻 Tenho grande interesse por tecnologia e inovação
 * 📚 Estou sempre buscando aprender algo novo e compartilhar conhecimento
 
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paulo2602&show_icons=true&theme=radical" alt="Paulo Isaque GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paulo2602&theme=radical" alt="Paulo Isaque Streak Stats" />
-</div>  
 
 

@@ -1,7 +1,3 @@
-Perfeito! Tirei os espaços grandes entre as tecnologias e deixei o **React.js** em destaque junto das outras stacks principais. Olha só como ficou:
-
----
-
 #  Olá, eu sou Paulo Isaque!
 
 ##  Front-End Developer | Criando experiências incríveis na web
